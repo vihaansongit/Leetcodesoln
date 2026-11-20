@@ -10,4 +10,12 @@
 | [1683-invalid-tweets](https://github.com/vihaansongit/Leetcodesoln/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vihaansongit/Leetcodesoln/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/vihaansongit/Leetcodesoln/tree/main/1873-calculate-special-bonus/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/vihaansongit/Leetcodesoln/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/vihaansongit/Leetcodesoln/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
