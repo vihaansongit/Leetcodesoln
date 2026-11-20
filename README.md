@@ -14,8 +14,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vihaansongit/Leetcodesoln/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/vihaansongit/Leetcodesoln/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vihaansongit/Leetcodesoln/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/vihaansongit/Leetcodesoln/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
